@@ -45,24 +45,42 @@ ClsfctonReprt=classification_report(y_test,y_pred)
 print(ClsfctonReprt)
 ```
 ### Output:
+### Head of the data:
+#### Values:
 
-**Head of the data** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Null Values:** <br><img width=78%  src="![1](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/a087b6fd-e6f8-4157-8b9b-b860aee8c9ec)">&emsp;<img width=18%  src="![2](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/af9ab0c6-709c-477c-98aa-22a238997ca2)
-   "><br><br><br>
-**Transformed Data:**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**X Values:**
-<br><img height=10% width=48% src="    ![3](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/e91f658d-3488-4a25-b67c-ca4d3ca3b50c)
-       ">&emsp;<img height=10% width=48% src="  ![4](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/7baf445c-f01e-46c6-9563-180e141973d0)
-      "><br><br><br>
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/f0e71c61-cba7-4067-87e9-97a7a2c6f4e9)
 
-**Y Values:** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Y Predicted Values:** <br>
-<img src="            ![5](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/a57a2f2a-f08a-41ee-8ead-5638266dd244)
-           ">&emsp;<img valign=top src="       ![6](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/2f71d724-7f05-4b84-82e3-f00942b052cc)
-        "><br><br><br>
-**Accuracy:**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Confusion Matrix:**&emsp;&emsp;&emsp;&emsp;**Classification Report:**
-<br>
-<img valign=top src="           ![7](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/281a1dd9-747b-4169-89ef-c56fa719eb86)
-         ">&emsp;&emsp;<img valign=top src="           ![8](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/324b69b5-f274-4998-af9c-5aa15c69711b)
-       ">&emsp;&emsp;&emsp;&emsp;<img valign=top src="       ![9](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/14de9f77-5971-4bbc-b998-78df374a106d)
-            ">
+#### Null:
+
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/fb86d529-541a-4dba-8a6e-8c7bbe9ebc5a)
+
+#### Transformed Data:
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/a62190b4-17b2-4398-a589-e1fda2509bf6)
+
+
+#### X values:
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/f135226b-1c91-4a5e-8093-8f83b6af32a9)
+
+
+#### Y values :
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/352243ae-7615-418a-acd4-eaeeaea2ed62)
+
+#### Y Predicted :
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/84c59ec8-6c3a-4979-90f1-55e16de5d7e8)
+
+#### Accuracy :
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/8a7b4202-227e-447b-a24c-80953ea64ce7)
+
+
+#### Confusion Matrix :
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/e5cdeb8f-6dd4-4804-91dc-adb74a8986e6)
+
+
+#### Classification Report :
+
+![image](https://github.com/IamShakthi/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/117913445/b71748a1-b228-49fe-9fec-6cd2588c92f2)
+
+
 
 ### Result:
 Thus the program to implement the the Logistic Regression Model to Predict the Placement Status of Student is written and verified using python programming.
