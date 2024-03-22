@@ -6,10 +6,14 @@ To write a program to implement the the Logistic Regression Model to Predict the
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 ### Algorithm
 1. Get the data and use label encoder to change all the values to numeric.
-2. Drop the unwanted values,Check for NULL values, Duplicate values. &emsp;&emsp;&emsp; **Developed By: ROHIT JAIN D**
-3. Classify the training data and the test data. &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Register No: 21222230120**
+2. Drop the unwanted values,Check for NULL values, Duplicate values. 
+3. Classify the training data and the test data. 
 4. Calculate the accuracy score, confusion matrix and classification report.
 ### Program:
+```
+Developed By: YUVASAKTHI N.C
+Register No: 212222240120
+```
 ```Python
 import pandas as pd
 df=pd.read_csv('CSVs/Placement_Data.csv')
